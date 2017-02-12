@@ -225,7 +225,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
@@ -276,7 +276,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
@@ -329,7 +329,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
@@ -537,7 +537,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
@@ -588,7 +588,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
@@ -641,7 +641,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
@@ -746,7 +746,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
@@ -798,7 +798,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
@@ -851,7 +851,7 @@
             <offline>false</offline>
             <hardFail>false</hardFail>
             <storeArtifactsLocally>true</storeArtifactsLocally>
-            <fetchJarsEagerly>false</fetchJarsEagerly>
+            <fetchJarsEagerly>true</fetchJarsEagerly>
             <fetchSourcesEagerly>false</fetchSourcesEagerly>
             <retrievalCachePeriodSecs>600</retrievalCachePeriodSecs>
             <assumedOfflinePeriodSecs>300</assumedOfflinePeriodSecs>
