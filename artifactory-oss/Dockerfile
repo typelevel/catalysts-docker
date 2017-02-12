@@ -1,6 +1,6 @@
 FROM centos:centos7
 
-MAINTAINER InTheNow
+MAINTAINER Typelevel
 
 LABEL Add Artifactory repositories
 ADD ["Artifactory-oss.repo","/etc/yum.repos.d/"]
